@@ -1,7 +1,7 @@
 # ASP.NET Core MVC Project – BankTransactions with CRUD Operations using Entity Framework Core
 
 ## Objective  
-The purpose of this ASP.NET Core MVC project is to build a fully functional **Bank Transaction Management System** that supports complete **CRUD operations** (Create, Retrieve, Update, Delete).  
+The purpose of this ASP.NET Core MVC project is to build a functional **Bank Transaction Management System** that supports complete **CRUD operations** (Create, Retrieve, Update, Delete).  
 Users can input and manage transactions through form-based pages, with all data stored in a **SQL Server** database using **Entity Framework Core**.
 
 This project is based on concepts from the CodAffection tutorial:  
@@ -31,7 +31,7 @@ This project is based on concepts from the CodAffection tutorial:
 ## 1. Install Required NuGet Packages  
   - Microsoft.EntityFrameworkCore 
   - Microsoft.EntityFrameworkCore.Tools
-  - - Microsoft.EntityFrameworkCore.SqlServer  
+  - Microsoft.EntityFrameworkCore.SqlServer  
 
 ## 2. Configure SQL Server Connection String  
 
