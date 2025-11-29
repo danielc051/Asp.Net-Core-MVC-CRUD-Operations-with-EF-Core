@@ -26,7 +26,7 @@ This project is based on concepts from the CodAffection tutorial:
   - Performed EF Core migrations to generate and maintain the database schema.  
   - Viewed and verified stored data using SQL Server Management Studio (SSMS).
 
-# Project Setup Steps
+## Project Setup Steps
 
 ## 1. Install Required NuGet Packages  
   - Microsoft.EntityFrameworkCore 
